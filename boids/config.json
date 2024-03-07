@@ -1,0 +1,19 @@
+{
+    "window": {
+        "width": 1280,
+        "height": 960
+    },
+    "visibility": {
+        "alpha": 120,
+        "perception": 0.1
+    },
+    "coefficients": {
+        "alignment": 0.03,
+        "cohesion": 0.05,
+        "separation": 0.07,
+        "walls": 0.04,
+        "noise": 0.05
+    },
+    "v_range": [0.0, 0.1],
+    "w_range": [0.0, 0.05]
+}
